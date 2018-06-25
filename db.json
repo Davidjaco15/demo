@@ -1,14 +1,340 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+       "IdPersona":1,
+       "Nombre":"SANCHEZ CARRARA LETICIA",
+       "Cargo":"DIRECTORA DE FONDEO Y NUEVOS NEGOCIOS",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO LEBNITZ",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":2,
+       "Nombre":"MARTINEZ CASA IVAN",
+       "Cargo":"DIRECTOR DIVISIONAL CENTRO",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO LEBNITZ",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":3,
+       "Nombre":"UBANDO HERRERA JOSE ALBERTO",
+       "Cargo":"DIRECTOR JURIDICO",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO LEBNITZ",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":4,
+       "Nombre":"LOPEZ CELAYA LEONEL",
+       "Cargo":"DIRECTOR CORPORATIVO DE TELECOMUNICACIONES",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO LEBNITZ",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":5,
+       "Nombre":"CERON VERA HECTOR",
+       "Cargo":"DIRECTOR DE CONTRALORIA",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO LEBNITZ",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":6,
+       "Nombre":"QUINTERO GARGALLO HECTOR",
+       "Cargo":"DIRECTOR DE SISTEMAS",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO EUCKEN",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":7,
+       "Nombre":"LORENZO ZAMORA JUANA",
+       "Cargo":"CAPACITACION",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO EUCKEN",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":8,
+       "Nombre":"SUAREZ PARE SANDRA",
+       "Cargo":"DIRECTORA DE CPA",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO EUCKEN",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":9,
+       "Nombre":"JIMENEZ VALENTINO VICTOR HUGO",
+       "Cargo":"SUBDIRECTOR REGIONAL Y DE FORMACION",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"SUCURSALES",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":10,
+       "Nombre":"ARCHUNDIA GARCIA ALBERTO JESUS",
+       "Cargo":"SUBDIRECTOR REGIONAL Y DE FORMACION",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"SUCURSALES",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":11,
+       "Nombre":"GUZMAN SOTO JUAN CARLOS",
+       "Cargo":"GERENTE EXPANSION",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"SUCURSALES",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":12,
+       "Nombre":"PEREZ PEREZ NOE BELVENOY",
+       "Cargo":"GERENTE VOLANTE",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"SUCURSALES",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":13,
+       "Nombre":"MORALES ESCAMILLA  JOSE LUIS",
+       "Cargo":"SUBDIRECTOR DE CONTRALORIA",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO LEBNITZ",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":14,
+       "Nombre":"MONTEJO CORDOBA ROYMAN",
+       "Cargo":"SUBDIRECTOR DE FONDEO",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO LEBNITZ",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":15,
+       "Nombre":"MAZON MATA FELIPE",
+       "Cargo":"CONTADOR",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO LEBNITZ",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":16,
+       "Nombre":"ZUÑIGA FERMIN JOSE",
+       "Cargo":"GERENTE DE NOMINA",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO LEBNITZ",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":17,
+       "Nombre":"BECERRIL MARTINEZ JULIO CESAR",
+       "Cargo":"MENSAJERO",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO LEBNITZ",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":18,
+       "Nombre":"MEZA PALMA RICARDO",
+       "Cargo":"GERENTE DE RECUPERACION Y CIERRE DE FICHAS",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO LEBNITZ",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":19,
+       "Nombre":"ALVARADO RODRIGUEZ MARTIN",
+       "Cargo":"GERENTE DE AUDITORIA METODOLOGICA",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"SUCURSALES",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":20,
+       "Nombre":"GONZALEZ REYES JOSE AUGUSTO",
+       "Cargo":"GERENTE DE DESARROLLO DE SISTEMAS",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO EUCKEN",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":21,
+       "Nombre":"RIOS ZAVALA PABLO",
+       "Cargo":"GERENTE DE ANALISIS DE CREDITO Y RIESGOS CC",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO EUCKEN",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":22,
+       "Nombre":"SERRANO MARTINEZ CARLOS ALBERTO",
+       "Cargo":"COORDINADOR DE ABOGADOS",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"SUCURSALES",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":23,
+       "Nombre":"DE LA PAZ LOPEZ MARIANO",
+       "Cargo":"COORDINADOR DE TELECOMUNICACIONES",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO LEBNITZ",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":24,
+       "Nombre":"ROMERO RODRIGUEZ HUMBERTO",
+       "Cargo":"COORDINADOR DE ABOGADOS",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"SUCURSALES",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":25,
+       "Nombre":"SAN ROMAN RIVERA HECTOR",
+       "Cargo":"CONSULTOR DE NORMATIVIDAD Y CUMPLIMIENTO",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO LEBNITZ",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    },
+    {
+       "IdPersona":26,
+       "Nombre":"ARCOS MOLINERO MARIO",
+       "Cargo":"GERENTE DE SEGUIMIENTO DE NUEVOS Y RENOVADOS DE CI",
+       "Ubicacion":"OFICINAS CENTRALES",
+       "Localidad":"CORPORATIVO LEBNITZ",
+       "Nivel":1,
+       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
+       "Activo":true,
+       "Propiedades":[
+ 
+       ]
+    }
+]
